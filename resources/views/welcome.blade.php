@@ -1,6 +1,6 @@
 <x-base-layout>
     <div class="h-full flex items-center justify-center">
-        <div class="w-full md:max-w-md flow-root">
+        <div class="w-full md:max-w-md p-8 md:p-8 flow-root">
             <ul role="list" class="-mb-8">
                 <li>
                     <div class="relative pb-8">
