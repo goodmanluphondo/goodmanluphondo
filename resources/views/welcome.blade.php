@@ -21,7 +21,7 @@
                                     <div class="text-sm">
                                     <a href="#" class="font-medium text-gray-900">Goodman Luphondo</a>
                                     </div>
-                                    <p class="mt-0.5 text-sm text-gray-500">Recorded an thought 2y ago</p>
+                                    <p class="mt-0.5 text-sm text-gray-500">Recorded a thought 2y ago</p>
                                 </div>
                                 <div class="mt-2 text-sm text-gray-700">
                                     <p>I would like to build a personal website to showcase my skills.</p>
